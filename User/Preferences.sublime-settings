@@ -1,0 +1,55 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
+	"detect_indentation": false,
+	"detect_slow_plugins": false,
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Groovy",
+		"LaTeX",
+		"Git",
+		"Scala",
+		"Lisp",
+		"AppleScript",
+		"RestructuredText",
+		"OCaml",
+		"Graphviz",
+		"Go",
+		"TCL",
+		"Haskell",
+		"Matlab",
+		"ShellScript",
+		"R",
+		"Clojure",
+		"Erlang"
+	],
+	"ignored_words":
+	[
+		"db",
+		"etc",
+		"params",
+		"unescaped",
+		"vars"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": true,
+	"show_full_path": true,
+	"show_indent_guides": true,
+	"show_tab_close_buttons": true,
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
